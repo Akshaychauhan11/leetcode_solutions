@@ -7,5 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0231-power-of-two) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
