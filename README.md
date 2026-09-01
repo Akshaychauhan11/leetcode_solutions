@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -30,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -40,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
