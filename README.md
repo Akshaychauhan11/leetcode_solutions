@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
