@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0507-perfect-number) |
 | [2413-smallest-even-multiple](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
