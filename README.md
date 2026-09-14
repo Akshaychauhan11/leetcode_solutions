@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2413-smallest-even-multiple](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Bit Manipulation
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
