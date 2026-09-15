@@ -5,10 +5,10 @@ class Solution {
             freq[ch]+=1;
         }
         for(char ch:ransomNote.toCharArray()){
-            if(freq[ch]>=1){
-                freq[ch]--;
-            }else{
+            if(!(freq[ch]>=1)){
                 return false;
+            }else{
+                freq[ch]--;
             }
         }
         return true;
