@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -79,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
@@ -141,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
