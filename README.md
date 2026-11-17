@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [1773-count-items-matching-a-rule](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Akshaychauhan11/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Queue
 |  |
 | ------- |
